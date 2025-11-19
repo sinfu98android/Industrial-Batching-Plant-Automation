@@ -13,88 +13,88 @@ MySQL Database <br>
    ↓ <br>
 PLC / Load Cell Devices <br>
 
-**Network & Protocol Support**
-•	TCP / RS485
-•	Local network or cloud-based control
-•	No OPC server required
+**Network & Protocol Support** <br>
+•	TCP / RS485 <br>
+•	Local network or cloud-based control <br>
+•	No OPC server required <br>
 
-### ⚙️ Tech Stack
-•	Frontend: JavaScript web UI
-•	Backend: PHP
-•	Low-Level Drivers: Custom C/C++
-•	Caching/Queue: Memcache
-•	Database: MySQL
-•	Deployment: FTP (WinSCP – legacy industrial environments)
+### ⚙️ Tech Stack <br>
+•	Frontend: JavaScript web UI <br>
+•	Backend: PHP <br>
+•	Low-Level Drivers: Custom C/C++<br>
+•	Caching/Queue: Memcache <br>
+•	Database: MySQL <br>
+•	Deployment: FTP (WinSCP – legacy industrial environments) <br>
 
 
 ### 🚀 Batching Plant Features 
-**Core Features**
-•	ERP → Automatic batching job creation
-•	Real-time ingredient weighing
-•	Automatic sequence control (mixing, dosing, loading)
-•	Load cell amplifier integration
-•	Remote I/O & PLC command execution
-•	Real-time runtime logging
-•	Event monitoring + alarms
-•	Full traceability (batch history)
+**Core Features** <br>
+•	ERP → Automatic batching job creation <br>
+•	Real-time ingredient weighing <br>
+•	Automatic sequence control (mixing, dosing, loading) <br>
+•	Load cell amplifier integration <br>
+•	Remote I/O & PLC command execution <br>
+•	Real-time runtime logging <br>
+•	Event monitoring + alarms <br>
+•	Full traceability (batch history) <br>
 
-**Operational Features**
-•	Multi-plant centralized web control
-•	1 operator can run multiple batching lines
-•	Remote troubleshooting & maintenance
-•	Brand-agnostic hardware support
-•	Very lightweight (no middleware bridge needed)
-
-
-### ⚡ Performance & Impact
-•	2+ years continuous operation in real industrial environment
-•	Reduced downtime via predictive maintenance
-•	OEE insights for cycle time, machine utilization, quality
-•	Faster troubleshooting with centralized logs
-•	Reduced staffing → 1 operator can handle multi batching plant
-•	Seamless remote access lowers onsite technician visits
-
-### 📊 Data Intelligence & Analytics
-**Orchestrix generates:**
-•	Material accuracy variance
-•	Cycle time distribution
-•	Batch quality metrics
-•	Equipment error patterns
-•	Predictive failure alerts
-•	Production volume summaries
-•	Capable of weighing operations without job order
-•	Minimizes material corruption and theft 
-•	Provides deep analysis and historical quality records for batching plant performance
+**Operational Features** <br>
+•	Multi-plant centralized web control <br>
+•	1 operator can run multiple batching lines <br>
+•	Remote troubleshooting & maintenance <br>
+•	Brand-agnostic hardware support <br>
+•	Very lightweight (no middleware bridge needed) <br>
 
 
-### 🧩 PLC Edge Integration
-**Orchestrix communicates directly with:**
-•	Mitsubishi PLCs
-•	Omron PLCs
-•	Schneider PLCs (Modbus)
-•	Modbus TCP devices
-•	Load cell amplifiers
-**This allows:**
-•	Fast message response
-•	Custom low-level C/C++ driver handling
-•	No OPC server required
-•	High performance in constrained environments
+### ⚡ Performance & Impact <br> 
+•	2+ years continuous operation in real industrial environment <br>
+•	Reduced downtime via predictive maintenance <br>
+•	OEE insights for cycle time, machine utilization, quality <br>
+•	Faster troubleshooting with centralized logs <br>
+•	Reduced staffing → 1 operator can handle multi batching plant <br>
+•	Seamless remote access lowers onsite technician visits <br>
 
-### 👨‍💻 Author Contribution
-This system and all components described in this document—including the architecture, PLC protocol implementation, runtime modules, backend services, data intelligence layer, and on-site commissioning—were fully designed and developed by the author.
+### 📊 Data Intelligence & Analytics <br>
+**Orchestrix generates:** <br>
+•	Material accuracy variance <br>
+•	Cycle time distribution <br>
+•	Batch quality metrics <br>
+•	Equipment error patterns <br>
+•	Predictive failure alerts<br>
+•	Production volume summaries <br>
+•	Capable of weighing operations without job order <br>
+•	Minimizes material corruption and theft <br> 
+•	Provides deep analysis and historical quality records for batching plant performance <br>
 
-#### 📎 [download technical pdf] : (./docs/Batching plant Github.pdf)
 
-🏗️ Branch Structure
+### 🧩 PLC Edge Integration <br>
+**Orchestrix communicates directly with:** <br>
+•	Mitsubishi PLCs <br>
+•	Omron PLCs <br>
+•	Schneider PLCs (Modbus) <br>
+•	Modbus TCP devices <br>
+•	Load cell amplifiers <br>
+**This allows:** <br>
+•	Fast message response <br>
+•	Custom low-level C/C++ driver handling <br>
+•	No OPC server required <br>
+•	High performance in constrained environments <br>
 
-### Default Branch
-- **main**
-  This is the default branch. It contains the complete Batching Plant system, which is built on top of the Orchestrix framework.
+### 👨‍💻 Author Contribution <br>
+This system and all components described in this document—including the architecture, PLC protocol implementation, runtime modules, backend services, data intelligence layer, and on-site commissioning—were fully designed and developed by the author. <br><br>
+ 
+#### 📎 [download technical pdf] : <br><br>
 
-### Framework
-- **orchestrix-framework**
-  This branch contains the standalone Orchestrix framework used to build multiple automation systems, including the Batching Plant project.
+### 🏗️ Branch Structure<br>
 
-### Customer Project
-- **batching-plant**
+**Default Branch**<br>
+**main**<br>
+  This is the default branch. It contains the complete Batching Plant system, which is built on top of the Orchestrix framework.<br>
+
+**Framework** <br>
+*orchestrix-framework*<br>
+  This branch contains the standalone Orchestrix framework used to build multiple automation systems, including the Batching Plant project.<br>
+
+**Customer Project**<br>
+- **batching-plant* <br>
   This branch holds the Batching Plant implementation delivered to the customer, powered by the Orchestrix framework.
