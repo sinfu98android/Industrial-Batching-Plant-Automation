@@ -84,13 +84,14 @@ PLC / Load Cell Devices <br>
 ### 👨‍💻 Author Contribution <br>
 This system and all components described in this document—including the architecture, PLC protocol implementation, runtime modules, backend services, data intelligence layer, and on-site commissioning—were fully designed and developed by the author. <br><br>
  
-### 📎 [download technical pdf](https://github.com/sinfu98android/Orchestrix_BatchingPlant/blob/b4af02769f587b4d781dcbac984bf1c218ffe177/Batching%20plant%20Github.pdf)   <br>
+### 📎 Technical Batching Plant pdf
+[download technical pdf](https://github.com/sinfu98android/Orchestrix_BatchingPlant/blob/b4af02769f587b4d781dcbac984bf1c218ffe177/Batching%20plant%20Github.pdf)   <br>
 *Note : Github Sometimes cannot preview PDF file directly, please download to view.*
 <br><br>
 
 ### 📹 Watch a video of the **commissioning and on-site trial** of the Batching Plant system
-[Batching Plant system](https://youtu.be/asrHC0f4MmY?si=lkpU2SrsDjZ1knN6) <br>
+[Batching Plant system video](https://youtu.be/asrHC0f4MmY?si=lkpU2SrsDjZ1knN6) <br>
 
 ### ❗This Batching Plant system is built on top of the Orchestrix framework <br>
-[Orchestrix Framework](https://github.com/sinfu98android/Orchestrix_main_framework) 
+[Orchestrix Framework link](https://github.com/sinfu98android/Orchestrix_main_framework) 
 Check it out!
