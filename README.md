@@ -87,5 +87,5 @@ This system and all components described in this document—including the archit
 *Note : Github Sometimes cannot preview PDF file directly, please download to view*
 <br><br>
 
-### > This Batching Plant system is built on top of the [Orchestrix framework] <br>
+### This Batching Plant system is built on top of the [Orchestrix framework] <br>
 https://github.com/sinfu98android/Orchestrix_main_framework
