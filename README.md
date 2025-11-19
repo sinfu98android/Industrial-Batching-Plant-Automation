@@ -84,4 +84,4 @@ This allows:
 👨‍💻 Author Contribution
 This system and all components described in this document—including the architecture, PLC protocol implementation, runtime modules, backend services, data intelligence layer, and on-site commissioning—were fully designed and developed by the author.
 
-[download technical pdf] :
+[download technical pdf] : Batching plant Github.pdf
