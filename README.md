@@ -84,4 +84,4 @@ This allows:
 👨‍💻 Author Contribution
 This system and all components described in this document—including the architecture, PLC protocol implementation, runtime modules, backend services, data intelligence layer, and on-site commissioning—were fully designed and developed by the author.
 
-[download technical pdf] : Batching plant Github.pdf
+[download technical pdf] : (https://github.com/sinfu98android/Orchestrix_BatchingPlant/blob/b2e3d1227beb0b92ec9e5ddc0fab5238427f9c10/Batching%20plant%20Github.pdf)
