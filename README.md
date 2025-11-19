@@ -3,17 +3,17 @@ A lightweight industrial orchestration module for batching automation, real-time
 
 ### 🏗 System Architecture
 
-Frontend (Web UI)
-   ↓
-Backend (PHP + C/C++ Runtime)
-   ↓
-Memcache (Queue + Cache Layer)
-   ↓
-MySQL Database
-   ↓
-PLC / Load Cell Devices
+Frontend (Web UI) <br>
+   ↓ <br>
+Backend (PHP + C/C++ Runtime) <br>
+   ↓ <br>
+Memcache (Queue + Cache Layer) <br>
+   ↓ <br>
+MySQL Database <br>
+   ↓ <br>
+PLC / Load Cell Devices <br>
 
-##### Network & Protocol Support
+**Network & Protocol Support**
 •	TCP / RS485
 •	Local network or cloud-based control
 •	No OPC server required
@@ -27,8 +27,8 @@ PLC / Load Cell Devices
 •	Deployment: FTP (WinSCP – legacy industrial environments)
 
 
-### 🚀 Batching Plant Features
-###### Core Features
+### 🚀 Batching Plant Features 
+**Core Features**
 •	ERP → Automatic batching job creation
 •	Real-time ingredient weighing
 •	Automatic sequence control (mixing, dosing, loading)
@@ -38,7 +38,7 @@ PLC / Load Cell Devices
 •	Event monitoring + alarms
 •	Full traceability (batch history)
 
-###### Operational Features
+**Operational Features**
 •	Multi-plant centralized web control
 •	1 operator can run multiple batching lines
 •	Remote troubleshooting & maintenance
@@ -55,7 +55,7 @@ PLC / Load Cell Devices
 •	Seamless remote access lowers onsite technician visits
 
 ### 📊 Data Intelligence & Analytics
-###### Orchestrix generates:
+**Orchestrix generates:**
 •	Material accuracy variance
 •	Cycle time distribution
 •	Batch quality metrics
@@ -68,14 +68,13 @@ PLC / Load Cell Devices
 
 
 ### 🧩 PLC Edge Integration
-###### Orchestrix communicates directly with:
+**Orchestrix communicates directly with:**
 •	Mitsubishi PLCs
 •	Omron PLCs
 •	Schneider PLCs (Modbus)
 •	Modbus TCP devices
 •	Load cell amplifiers
-
-###### This allows:
+**This allows:**
 •	Fast message response
 •	Custom low-level C/C++ driver handling
 •	No OPC server required
