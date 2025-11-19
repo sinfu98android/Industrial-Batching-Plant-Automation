@@ -85,3 +85,18 @@ This allows:
 This system and all components described in this document—including the architecture, PLC protocol implementation, runtime modules, backend services, data intelligence layer, and on-site commissioning—were fully designed and developed by the author.
 
 [download technical pdf] : (https://github.com/sinfu98android/Orchestrix_BatchingPlant/blob/b2e3d1227beb0b92ec9e5ddc0fab5238427f9c10/Batching%20plant%20Github.pdf)
+
+
+🏗️ Branch Structure
+
+### Default Branch
+- **main**
+  This is the default branch. It contains the complete Batching Plant system, which is built on top of the Orchestrix framework.
+
+### Framework
+- **orchestrix-framework**
+  This branch contains the standalone Orchestrix framework used to build multiple automation systems, including the Batching Plant project.
+
+### Customer Project
+- **batching-plant**
+  This branch holds the Batching Plant implementation delivered to the customer, powered by the Orchestrix framework.
