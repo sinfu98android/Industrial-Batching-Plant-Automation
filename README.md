@@ -1,4 +1,7 @@
 # Orchestrix---BatchingPlant
+**Watch a video of the commissioning and on-site trial** of the Batching Plant system
+[📹  Batching Plant system video](https://youtu.be/asrHC0f4MmY?si=lkpU2SrsDjZ1knN6) <br>
+
 A lightweight industrial orchestration module for batching automation, real-time analytics, and direct PLC integration. Designed for high-speed, low-latency environments without requiring middleware servers or OPC bridges.<br>
 **Designed and developed the Orchestrix software framework entirely from scratch**. Applied it to a refurbished batching plant, collaborating with the operator and their staff for system integration, commissioning, and performance optimization<br>
 
@@ -89,7 +92,7 @@ This system and all components described in this document—including the archit
 *Note : Github Sometimes cannot preview PDF file directly, please download to view.*
 <br><br>
 
-### Watch a video of the **commissioning and on-site trial** of the Batching Plant system
+**Watch a video of the commissioning and on-site trial** of the Batching Plant system
 [📹  Batching Plant system video](https://youtu.be/asrHC0f4MmY?si=lkpU2SrsDjZ1knN6) <br>
 
 ### This Batching Plant system is built on top of the Orchestrix framework <br>
