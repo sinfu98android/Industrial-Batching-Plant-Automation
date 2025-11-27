@@ -91,7 +91,9 @@ This system and all components described in this document—including the archit
 [📎  download technical pdf](https://github.com/sinfu98android/Orchestrix_BatchingPlant/blob/eede6d837fe12a0d6a4999ec92bdf4642d41918e/Batching%20plant%20Technical%20PDF.pdf)   <br>
 *Note : Github Sometimes cannot preview PDF file directly, please download to view.*
 <br><br>
+![System Architecture & Impact](https://github.com/sinfu98android/Orchestrix_BatchingPlant/blob/66e8c4249e480d7ae174f78da01db4e5ae3e1bdf/BatchingPlant_Orchestrix_Architecture_Impact.png.jpg)
 
+<br><br>
 **Watch a video of the commissioning and on-site trial** of the Batching Plant system
 [📹  Batching Plant system video](https://youtu.be/asrHC0f4MmY?si=lkpU2SrsDjZ1knN6) <br>
 
