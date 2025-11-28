@@ -96,7 +96,13 @@ This system and all components described in this document—including the archit
 
 <br><br>
 
+### Skills
+C/C++ | Automation | Linux | Embedded Communication | Embedded Firmware | HMI | R&D | Web & Runtime Architecture |Software development | Programming | motion control | RTOS
 
 ### This Batching Plant system is built on top of the Orchestrix framework <br>
 [🔗  Orchestrix Framework link](https://github.com/sinfu98android/Orchestrix_main_framework) 
 Check it out!
+
+### Contact 
+[Linkedin - Yudi Hariyanto](https://www.linkedin.com/in/yudi-hariyanto-2732462a3?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) <br>
+Feel free to contact for questions, collaborations, or technical discussion
