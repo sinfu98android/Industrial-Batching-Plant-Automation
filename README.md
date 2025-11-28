@@ -1,10 +1,8 @@
-# Orchestrix---BatchingPlant
+# Orchestrix-BatchingPlant
+
+Orchestrix Batching Plant is a real-world industrial automation system powered by the Orchestrix Framework, designed to control multiple batching lines with high-speed, low-latency, middleware-free orchestration. It integrates PLCs, load cells, and a web-based HMI to provide real-time batching, monitoring, and analytics. Deployed in production for over 2 years, it has reduced staffing requirements, lowered maintenance costs by 30%+, and enabled predictive maintenance and operational insights. All system architecture, framework, PLC integration, and on-site commissioning were designed and implemented by the author.<br>
 #### 🎥**Watch a video of the commissioning and on-site trial** of the Batching Plant system
 ![  Batching Plant system video](https://github.com/sinfu98android/Orchestrix_BatchingPlant/blob/79f43c33b88d44096f15782fb4bdf8cbc0b957aa/Youtube%20Cover%20%5BJPG%5D)(https://youtu.be/asrHC0f4MmY?si=lkpU2SrsDjZ1knN6) <br><br>
-
-
-A lightweight industrial orchestration module for batching automation, real-time analytics, and direct PLC integration. Designed for high-speed, low-latency environments without requiring middleware servers or OPC bridges.<br>
-**Designed and developed the Orchestrix software framework entirely from scratch**. Applied it to a refurbished batching plant, collaborating with the operator and their staff for system integration, commissioning, and performance optimization<br>
 
 ### 🏗 System Architecture
 
