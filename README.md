@@ -58,6 +58,7 @@ PLC / Load Cell Devices <br>
 •	Faster troubleshooting with centralized logs <br>
 •	Reduced staffing → 1 operator can handle multi batching plant <br>
 •	Seamless remote access lowers onsite technician visits <br>
+• Brand-agnostic design reduces machine and maintenance costs by ~30%+ compared to original vendor parts  
 
 ### 📊 Data Intelligence & Analytics <br>
 **Orchestrix generates:** <br>
