@@ -95,7 +95,19 @@ This system and all components described in this document—including the archit
 ![System Architecture & Impact](https://github.com/sinfu98android/Orchestrix_BatchingPlant/blob/66e8c4249e480d7ae174f78da01db4e5ae3e1bdf/BatchingPlant_Orchestrix_Architecture_Impact.png.jpg)
 
 <br><br>
+### 🏭 Field Deployment
 
+The batching plant automation system is powered by the **Orchestrix Framework**, providing deterministic, middleware-free control and HMI.  
+
+This **panel box** represents the heart of the system, installed in the field and used in production. It demonstrates:
+
+- Real industrial deployment  
+- Integration of HMI, PLC logic, and Orchestrix orchestration  
+- Reliable, long-term operation in a factory environment
+
+![Panel Box](https://github.com/sinfu98android/Orchestrix_BatchingPlant/blob/e3a5f0dc5a76fb12e12defcc5a47e2ef107af28d/Images/Box%20Panel-1)
+
+![Panel Box](https://github.com/sinfu98android/Orchestrix_BatchingPlant/blob/e3a5f0dc5a76fb12e12defcc5a47e2ef107af28d/Images/Box%20Panel-2)
 ### Skills
 C/C++ | Automation | Linux | Embedded Communication | Embedded Firmware | HMI | R&D | Web & Runtime Architecture |Software development | Programming | motion control | RTOS
 
